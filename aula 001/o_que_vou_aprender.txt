@@ -1,0 +1,25 @@
+Curso: Curso de PHP 8: Do Zero ao Profissional.
+Professor: Ronaldo Aires.
+Ano: 2022.
+Dísponivel no YouTube, totalmente grátis.
+Canal: UnSet.
+
+
+O que vou aprender durante o curso?
+
+Construir um Micro Framework MVC personalizado e auto escalável do Zero sem uso de qualquer tipo de Framework como Laravel, CodeIgniter, Zend etc...
+Criar classe PDO personalizada para realizar interações com o Banco de Dados.
+Utilizar o phpMyAdmin no gerenciamento de banco de dados MySQL.
+Utilizar Composer que é o gerenciador de dependências do PHP.
+Autenticação segura de usuários com senhas hash usando OOP e PDO.
+Criar Classes e Funções Auxiliares Reutilizáveis.
+Criar Classes Robustas e Auto Escalável, da Logica Estrutural a Abstração e o Desenvolvimento da Classe.
+Implementar e Utilizar a Biblioteca CSS Bootstrap 5 para estilizar as Views.
+Criar seus Próprios Projetos em PHP Orientado a Objetos Utilizando o Padrão de Projetos MVC.
+Compreender e Desenvolver navegação utilizando rotas com URLs amigáveis.
+Utilizar o Twig que é uma engine de templates PHP baseado no modelo MVC.
+Escrever códigos limpos, simples e de qualidade, seguindo boas práticas de programação PSR - PHP Standards Recommendations.
+Utilizar o Packagist que é um repositório de Pacotes do PHP.
+Utilizar bibliotecas robustas como PHPMailer, Twig e SimpleRouter.
+Registrar um Domínio e Contratar uma Hospedagem Profissional.
+Deploy - Configurar e Hospedar o Projeto Online em uma Hospedagem real.
