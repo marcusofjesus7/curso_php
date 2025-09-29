@@ -1,0 +1,15 @@
+<?php
+    //O include é usado para incluir e avaliar o arquivo especifico no arquivo PHP atual
+    //O include_once ele apenas inclui um arquivo uma unica vez, mesmo que o include_once seja chamado mais de uma vez, ele apenas ira incluir o arquivo uma unica vez
+    
+    //se o arquivo for localizado, o script php ira executar normalmente
+    
+    //O require é usado para requerir o arquivo especifico no arquivo PHP atual
+    //O require_once ele apenas requer um arquivo uma unica vez, mesmo que o require_once seja chamado mais de uma vez, ele apenas ira requerir o arquivo uma unica vez
+    
+    //se o arquivo não for localizado, o script php ira gerar um erro e parar a execução
+    
+    echo 'Arquivo de configuração do sistema';
+    
+    // a diferença entre include e require, é que o include ele apenas inclui o arquivo, se por acaso ele não ache o arquivo, ele apenas gera um aviso de erro ao não encontrar o arquivo, e continua executando o script normalmente, mas o require ele exige o arquivo, se caso o arquivo não for encontrado, o script php não funciona, e ira gerar um erro fatal.
+?>
