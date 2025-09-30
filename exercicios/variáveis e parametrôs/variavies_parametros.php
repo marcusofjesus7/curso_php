@@ -4,6 +4,7 @@
     $idade = 20; //variável do tipo: int (número inteiro)
     $altura = 1.85; //variável do tipo: float (número com ponto flutuante ou números reais)
     $fumante = false; //variável do tipo: boolean (true ou false - verdadeiro ou falso)
+    $nulo = null; //variável do tipo: null (vazio ou sem valor)
 
     //Parâmetros são valores que podem ser passados para funções
 
